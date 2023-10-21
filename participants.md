@@ -4,6 +4,7 @@ Here are the lists of people who've signed up for or are joining in on the OpenK
 
 ### 2023
 - Athalla Cahyo Nugroho [GitHub](https://github.com/Noobmaster32)
+- Taufik Nurrohman [GitHub](https://github.com/ngodeing)
 - Alif Najmi Raihan Putra Hidayat [GitHub](https://github.com/raihannajmi)
 - Mohammad Izza Hakiki [GitHub](https://github.com/MohammadIzza)
 - Karindra Rafi Linux Hirarki [Github](https://github.com/karindralinux)
@@ -18,4 +19,5 @@ Here are the lists of people who've signed up for or are joining in on the OpenK
 - Reiki Aziz [Github] (https://github.com/rhyssh)
 - Ahmad Bagas Aditya Ilham Aulia [Github](https://github.com/bagas474)
 - Muhammmad Fabhian [Github](https://github.com/mhmmdFabiann)
+- Taufik Nurrohman [Github](https://github.com/ngodeing)
 - Hadid Ramadhan [Linkedin](www.linkedin.com/in/hadid-ramadhan14)
