@@ -15,3 +15,4 @@ Here are the lists of people who've signed up for or are joining in on the OpenK
 - Reiki Aziz  [Github] (https://github.com/rhyssh) 
 - Ahmad Bagas Aditya Ilham Aulia [Github](https://github.com/bagas474)
 - Muhammmad Fabhian [Github](https://github.com/mhmmdFabiann)
+- Taufik Nurrohman [Github](https://github.com/ngodeing)
