@@ -4,8 +4,6 @@ Here are the lists of people who've signed up for or are joining in on the OpenK
 
 ### 2023
 
-- Hadid Ramadhan [Linkedin](www.linkedin.com/in/hadid-ramadhan14)
-
 - Mohammad Izza Hakiki [GitHub](https://github.com/MohammadIzza)
 - Karindra Rafi Linux Hirarki [Github](https://github.com/karindralinux)
 - Ahmad Aziz Fauzi [Github](https://github.com/Raturu0)
@@ -15,3 +13,4 @@ Here are the lists of people who've signed up for or are joining in on the OpenK
 - Arjun Nafi' Mahardika [GitHub](https://github.com/hyjhon)
 - Muhammad Ma'mun Efendi [Github](https://github.com/efendi7)
 - Reiki Aziz [Github] (https://github.com/rhyssh)
+- Hadid Ramadhan [Linkedin](www.linkedin.com/in/hadid-ramadhan14)
